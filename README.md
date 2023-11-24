@@ -1,2 +1,19 @@
-# PyroSecureNotify
-PyroGuard Notifier là một hệ thống thông báo thông minh được phát triển bằng Arrduino, chuyên phát hiện các sự cố cháy nổ, cảnh báo kịp thời cho người dùng để đảm bảo phản hồi nhanh chóng và hiệu quả. Dự án được thiết kế với mục tiêu chính là tăng cường các biện pháp an toàn trong nhiều môi trường gia đình.
+# PyroGuard Notifier
+
+PyroGuard Notifier is a Python-based system designed to detect fire and gas, sending notifications to users in case of emergencies. This project aims to enhance safety measures by providing timely alerts in critical situations.
+
+## Features
+
+- **Fire Detection:** PyroGuard uses advanced algorithms to detect the presence of fire.
+- **Gas Detection:** The system is equipped to identify harmful gases and trigger alerts accordingly.
+- **Notification System:** Sends instant messages to designated recipients when a threat is detected.
+- **Configurable Settings:** Users can customize notification preferences and sensitivity levels.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/PyroGuard-Notifier.git
+   cd PyroGuard-Notifier
+
